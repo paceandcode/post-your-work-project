@@ -20,7 +20,8 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I forked this project from udacity https://github.com/udacity/post-your-work-project
+Additionally I added provided files from: bikeshare-starter.zip
 
 ## Date created
 
