@@ -6,7 +6,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv',
               'berlin': 'berlin.csv',
-              'london': 'london.csv'}
+              'london': 'london.csv',
+              'paris': 'paris.csv'}
 
 def get_filters():
     """
