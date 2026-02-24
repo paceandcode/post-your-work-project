@@ -25,4 +25,4 @@ Additionally I added provided files from: bikeshare-starter.zip
 
 ## Date created
 
-Include the date you created this project and README file.
+The project was created on the 24th of February 2026.
